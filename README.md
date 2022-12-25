@@ -1,6 +1,5 @@
 # pacman
-
-#A new Flutter project.
+## A new Flutter project.
 
 Let's build PAC MAN in Flutter.
 I  Have coding live this PAC-MAN animation in a flutter. 
