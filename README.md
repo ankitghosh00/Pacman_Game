@@ -1,6 +1,9 @@
 # pacman
 
 A new Flutter project.
+Let's build PAC MAN in Flutter.
+I  Have coding live this PAC-MAN animation in a flutter. 
+How to I Am code a simple 2D game like PACMAN in flutter using dart programming. Basic widgets used in this app tutorial include Containers, ClipRRect, Columns, Rows, and GridViews
 
 ## Getting Started
 
