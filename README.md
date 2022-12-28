@@ -1,6 +1,6 @@
 # pacman
 ## A new Flutter project.
-# Flutter  2D Game Series 1St Game 
+ 
 
 ![PacmanGame](https://user-images.githubusercontent.com/66225746/209554161-e67cf486-38ea-4187-bc63-369a3b0c0dbc.jpeg)
 
